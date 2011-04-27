@@ -1,0 +1,5 @@
+.DS_Store
+*.swp
+flex_src/bin-debug
+flex_src/bin-release/s3_upload.swf
+flex_src/html-template
